@@ -1,2 +1,2 @@
-# quizipa8
+# QUIZ IPA
 Quiz IPA kelas 8 SMP
